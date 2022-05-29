@@ -5,9 +5,7 @@ import java.util.Scanner;
 
 public class Dialect {
     public static void main(String[] args) {
-        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-
-        try {
+        try (BufferedReader br = new BufferedReader(new InputStreamReader(System.in))) {
             String line = br.readLine();
             String[] words = line.split(" ");
             double wordsAE = 0;
@@ -16,7 +14,7 @@ public class Dialect {
                     wordsAE++;
                 }
             }
-            if(wordsAE / words.length < 0.4) {
+            if (wordsAE / words.length < 0.4) {
                 System.out.println("haer talar vi rikssvenska");
             } else {
                 System.out.println("dae ae ju traeligt va");

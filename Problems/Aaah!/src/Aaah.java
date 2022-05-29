@@ -2,14 +2,16 @@ import java.util.Scanner;
 
 public class Aaah {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+        try (Scanner scanner = new Scanner(System.in)) {
             String jonMarius = scanner.nextLine();
             String doctor = scanner.nextLine();
-            if(doctor.length() <= jonMarius.length()){
+            if (doctor.length() <= jonMarius.length()) {
                 System.out.println("go");
-            }
-            else{
+            } else {
                 System.out.println("no");
             }
+        } catch (IOException | InputMismatchException ex) {
+            ex.printStackTrace();
+        }
     }
 }
