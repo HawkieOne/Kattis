@@ -36,65 +36,68 @@ while (line = readline()) {
 
 | Problem &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Language &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Link &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | -------------------- | --------------------- | ----------------- |
-|    **3D Printed Statues**| Java | Link |
-|    **A Real Challenge**| Java | Link |
-|    **A Different Problem**| Java | Link |
-|    **ABC**| Java | Link |
-|    **ACM Contest Scoring**| Java | Link |
-|    **Aaah!**| Java | Link |
-|    **Above Average**| Java | Link |
-|    **Add Two Numbers**| Java | Link |
-|    **Alex and Barb**| Java | Link |
-|    **Alphabet Spam**| Java | Link |
-|    **Apaxiaaaaaaaaaaaans!**| Java | Link |
-|    **Autori**| Java | Link |
-|    **Average Character**| Java | Link |
-|    **Avion**| Java | Link |
-|    **Baby Bites**| Java | Link |
-|    **Basketball One-on-One**| Java | Link |
-|    **Batter Up**| Java | Link |
-|    **Bela**| Java | Link |
-|    **Betting**| Java | Link |
-|    **Bijele**| Java | Link |
-|    **Boat Parts**| Java | Link |
-|    **Booking a Room**| Java | Link |
-|    **Building Pyramids**| Java | Link |
-|    **Bus**| Java | Link |
-|    **Cetiri**| Java | Link |
-|    **Cetvrta**| Java | Link |
-|    **Chanukah Challenge**| Java | Link |
-|    **Cold-puter Science**| Java | Link |
-|    **Cooking Water**| Java | Link |
-|    **Costume Contest**| Java | Link |
-|    **Count the Vowels**| Java | Link |
-|    **Cpr-nummer**| Java | Link |
-|    **Cryptographer's Conundrum**| Java | Link |
-|    **Cudoviste**| Java | Link |
-|    **Datum**| Java | Link |
-|    **Death Knight Hero**| Java | Link |
-|    **Detailed Differences**| Java | Link |
-|    **Dice Cup**| Java | Link |
-|    **Different Distances**| Java | Link |
-|    **Digit Product**| Java | Link |
-|    **Digit Swap**| Java | Link |
-|    **Echo Echo Echo**| Java | Link |
-|    **Egypt**| Java | Link |
-|    **Electrical Outlets**| Java | Link |
-|    **Encoded Message**| Java | Link |
-|    **Espresso!**| Java | Link |
-|    **Estimating the Area of a Circle**| Java | Link |
-|    **Eye of Sauron**| Java | Link |
-|    **Exam**| Java | Link |
-|    **FYI**| Java | Link |
-|    **Falling Apart**| Java | Link |
-|    **Faktor**| Java | Link |
-|    **Fifty Shades of Pink**| Java | Link |
-|    **Filip**| Java | Link |
-|    **Final Exam**| Java | Link |
-|    **Finding An A**| Java | Link |
-|    **FizzBuzz**| Java | Link |
-|    **Forced Choice**| Java | Link |
-|    **Free Food**| Java | Link |
+|    **3D Printed Statues**| Java | <p><a href="https://open.kattis.com/problems/3dprinter">:link:</a></p> | 
+|    **Aaah!**| Java | <p><a href="https://open.kattis.com/problems/aaah">:link:</a></p> |
+|    **ABC**| Java | <p><a href="https://open.kattis.com/problems/abc">:link:</a></p> |
+|    **Above Average**| Java | <p><a href="https://open.kattis.com/problems/aboveaverage">:link:</a></p> |
+|    **ACM Contest Scoring**| Java | <p><a href="https://open.kattis.com/problems/3dprinter">:link:</a></p> |
+|    **Accouting**| Javscript Spidermonkey | <p><a href="https://open.kattis.com/problems/bokforing">:link:</a></p> |
+|    **Add Two Numbers**| Javscript Spidermonkey | <p><a href="https://open.kattis.com/problems/addtwonumbers">:link:</a></p> |
+|    **A Different Problem**| Java | <p><a href="https://open.kattis.com/problems/different">:link:</a></p> |
+|    **Alex and Barb**| Java | <p><a href="https://open.kattis.com/problems/alexandbarb">:link:</a></p> |
+|    **Alphabet Spam**| Java | <p><a href="https://open.kattis.com/problems/alphabetspam">:link:</a></p> |
+|    **Apaxiaaaaaaaaaaaans!**| Java | <p><a href="https://open.kattis.com/problems/apaxiaaans">:link:</a></p> |
+|    **A Real Challenge**| Java | <p><a href="https://open.kattis.com/problems/areal">:link:</a></p> |
+|    **Autori**| Java | <p><a href="https://open.kattis.com/problems/autori">:link:</a></p> |
+|    **Average Character**| Java | <p><a href="https://open.kattis.com/problems/averagecharacter">:link:</a></p> |
+|    **Avion**| Java | <p><a href="https://open.kattis.com/problems/avion">:link:</a></p> |
+|    **Baby Bites**| Java | <p><a href="https://open.kattis.com/problems/babybites">:link:</a></p> |
+|    **Basketball One-on-One**| Java | <p><a href="https://open.kattis.com/problems/basketballoneonone">:link:</a></p> |
+|    **Batter Up**| Java | <p><a href="https://open.kattis.com/problems/batterup">:link:</a></p> |
+|    **Bela**| Java | <p><a href="https://open.kattis.com/problems/bela">:link:</a></p> |
+|    **Betting**| Java | <p><a href="https://open.kattis.com/problems/betting">:link:</a></p> |
+|    **Bijele**| Java | <p><a href="https://open.kattis.com/problems/bijele">:link:</a></p> |
+|    **Boat Parts**| Java | <p><a href="https://open.kattis.com/problems/boatparts">:link:</a></p> |
+|    **Booking a Room**| Java | <p><a href="https://open.kattis.com/problems/bookingaroom">:link:</a></p> |
+|    **Building Pyramids**| Java | <p><a href="https://open.kattis.com/problems/pyramids">:link:</a></p> |
+|    **Bus**| Java | <p><a href="https://open.kattis.com/problems/bus">:link:</a></p> |
+|    **Cetiri**| Java | <p><a href="https://open.kattis.com/problems/cetiri">:link:</a></p> |
+|    **Cetvrta**| Java | <p><a href="https://open.kattis.com/problems/cetvrta">:link:</a></p> |
+|    **Chanukah Challenge**| Java | <p><a href="https://open.kattis.com/problems/chanukah">:link:</a></p> |
+|    **Cold-puter Science**| Java | <p><a href="https://open.kattis.com/problems/cold">:link:</a></p> |
+|    **Convex Polygon Area**| Javascript Spidermonkey | <p><a href="https://open.kattis.com/problems/convexpolygonarea">:link:</a></p> |
+|    **Cooking Water**| Java | <p><a href="https://open.kattis.com/problems/cookingwater">:link:</a></p> |
+|    **Costume Contest**| Java | <p><a href="https://open.kattis.com/problems/costumecontest">:link:</a></p> |
+|    **Count the Vowels**| Java | <p><a href="https://open.kattis.com/problems/countthevowels">:link:</a></p> |
+|    **Cpr-nummer**| Java | <p><a href="https://open.kattis.com/problems/cprnummer">:link:</a></p> |
+|    **Cryptographer's Conundrum**| Java | <p><a href="https://open.kattis.com/problems/conundrum">:link:</a></p> |
+|    **Cudoviste**| Java | <p><a href="https://open.kattis.com/problems/cudoviste">:link:</a></p> |
+|    **Datum**| Java | <p><a href="https://open.kattis.com/problems/datum">:link:</a></p> |
+|    **Death Knight Hero**| Java | <p><a href="https://open.kattis.com/problems/deathknight">:link:</a></p> |
+|    **Detailed Differences**| Java | <p><a href="https://open.kattis.com/problems/detaileddifferences">:link:</a></p> |
+|    **Dice Cup**| Java | <p><a href="https://open.kattis.com/problems/dicecup">:link:</a></p> |
+|    **Different Distances**| Java | <p><a href="https://open.kattis.com/problems/differentdistances">:link:</a></p> |
+|    **Digit Product**| Java | <p><a href="https://open.kattis.com/problems/sifferprodukt">:link:</a></p> |
+|    **Digit Swap**| Java | <p><a href="https://open.kattis.com/problems/digitswap">:link:</a></p> |
+|    **Dog & Gopher**| Javascript Spidermonkey | <p><a href="https://open.kattis.com/problems/doggopher">:link:</a></p> |
+|    **Echo Echo Echo**| Java | <p><a href="https://open.kattis.com/problems/echoechoecho">:link:</a></p> |
+|    **Egypt**| Java | <p><a href="https://open.kattis.com/problems/egypt">:link:</a></p> |
+|    **Electrical Outlets**| Java | <p><a href="https://open.kattis.com/problems/electricaloutlets">:link:</a></p> |
+|    **Encoded Message**| Java | <p><a href="https://open.kattis.com/problems/encodedmessage">:link:</a></p> |
+|    **Espresso!**| Java | <p><a href="https://open.kattis.com/problems/espresso">:link:</a></p> |
+|    **Estimating the Area of a Circle**| Java | <p><a href="https://open.kattis.com/problems/estimatingtheareaofacircle">:link:</a></p> |
+|    **Exam**| Java | <p><a href="https://open.kattis.com/problems/exam">:link:</a></p> |
+|    **Eye of Sauron**| Java | <p><a href="https://open.kattis.com/problems/eyeofsauron">:link:</a></p> |
+|    **Faktor**| Java | <p><a href="https://open.kattis.com/problems/faktor">:link:</a></p> |
+|    **Falling Apart**| Java | <p><a href="https://open.kattis.com/problems/fallingapart">:link:</a></p> |
+|    **Fifty Shades of Pink**| Java | <p><a href="https://open.kattis.com/problems/fiftyshades">:link:</a></p> |
+|    **Filip**| Java | <p><a href="https://open.kattis.com/problems/filip">:link:</a></p> |
+|    **Final Exam**| Java | <p><a href="https://open.kattis.com/problems/finalexam2">:link:</a></p> |
+|    **Finding An A**| Java | <p><a href="https://open.kattis.com/problems/findingana">:link:</a></p> |
+|    **FizzBuzz**| Java | <p><a href="https://open.kattis.com/problems/fizzbuzz">:link:</a></p> |
+|    **Forced Choice**| Java | <p><a href="https://open.kattis.com/problems/forcedchoice">:link:</a></p> |
+|    **Free Food**| Java | <p><a href="https://open.kattis.com/problems/freefood">:link:</a></p> |
+|    **FYI**| Java | <p><a href="https://open.kattis.com/problems/fyi">:link:</a></p> |
 |    **GCVWR**| Java | Link |
 |    **Grading**| Java | Link |
 |    **Grass Seed Inc.**| Java | Link |
