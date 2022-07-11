@@ -36,7 +36,7 @@ while (line = readline()) {
 
 | Problem &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Language &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Link &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | -------------------- | --------------------- | ----------------- |
-|    **3D Printed Statues**| Java | <h3><a href="https://open.kattis.com/problems/3dprinter">:link:</a></h3> | 
+|    **3D Printed Statues**| Java | <h5><a href="https://open.kattis.com/problems/3dprinter">:link:</a></h5> | 
 |    **Aaah!**| Java | <p><a href="https://open.kattis.com/problems/aaah">:link:</a></p> |
 |    **ABC**| Java | <p><a href="https://open.kattis.com/problems/abc">:link:</a></p> |
 |    **Above Average**| Java | <p><a href="https://open.kattis.com/problems/aboveaverage">:link:</a></p> |
