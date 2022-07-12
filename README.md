@@ -98,35 +98,37 @@ while (line = readline()) {
 |    **Forced Choice**| Java | <h4><a href="https://open.kattis.com/problems/forcedchoice">:link:</a></h4> |
 |    **Free Food**| Java | <h4><a href="https://open.kattis.com/problems/freefood">:link:</a></h4> |
 |    **FYI**| Java | <h4><a href="https://open.kattis.com/problems/fyi">:link:</a></h4> |
-|    **GCVWR**| Java | Link |
-|    **Grading**| Java | Link |
-|    **Grass Seed Inc.**| Java | Link |
-|    **Greetings!**| Java | Link |
-|    **Hanging Out on the Terrace**| Java | Link |
-|    **Harshad Numbers**| Java | Link |
-|    **Heart Rate**| Java | Link |
-|    **Hello World!**| Java | Link |
-|    **Help a PhD candidate out!**| Java | Link |
-|    **Herman**| Java | Link |
-|    **Hissing Microphone**| Java | Link |
-|    **Homework**| Java | Link |
-|    **Honour Thy (Apaxian) Parent**| Java | Link |
-|    **I've Been Everywhere, Man**| Java | Link |
-|    **ICPC Awards**| Java | Link |
-|    **IsItHalloween.com**| Java | Link |
-|    **Jack-O'-Lantern Juxtaposition**| Java | Link |
-|    **Janitor Troubles**| Java | Link |
-|    **Jewelry Box**| Java | Link |
-|    **Job Expenses**| Java | Link |
-|    **Joint Jog Jam**| Java | Link |
-|    **Judging Moose**| Java | Link |
-|    **Jumbo Javelin**| Java | Link |
-|    **Just a Minute**| Java | Link |
-|    **Karte**| Java | Link |
-|    **Kemija**| Java | Link |
-|    **Knigs of the Forest**| Java | Link |
-|    **Knot Knowledge**| Java | Link |
-|    **Kornislav**| Java | Link |
+|    **GCVWR**| Java | <h4><a href="https://open.kattis.com/problems/gcvwr">:link:</a></h4> |
+|    **Goat Rope**| Javascript Spidermonkey | <h4><a href="https://open.kattis.com/problems/goatrope">:link:</a></h4> |
+|    **Grading**| Java | <h4><a href="https://open.kattis.com/problems/grading">:link:</a></h4> |
+|    **Grass Seed Inc.**| Java | <h4><a href="https://open.kattis.com/problems/grassseed">:link:</a></h4> |
+|    **Greetings!**| Java | <h4><a href="https://open.kattis.com/problems/greetings2">:link:</a></h4> |
+|    **Hanging Out on the Terrace**| Java | <h4><a href="https://open.kattis.com/problems/hangingout">:link:</a></h4> |
+|    **Harshad Numbers**| Java | <h4><a href="https://open.kattis.com/problems/fyi">:link:</a></h4> |
+|    **Heart Rate**| Java | <h4><a href="https://open.kattis.com/problems/heartrate">:link:</a></h4> |
+|    **Hello World!**| Java | <h4><a href="https://open.kattis.com/problems/hello">:link:</a></h4> |
+|    **Help a PhD candidate out!**| Java | <h4><a href="https://open.kattis.com/problems/helpaphd">:link:</a></h4> |
+|    **Herman**| Java | <h4><a href="https://open.kattis.com/problems/herman">:link:</a></h4> |
+|    **Hiding Places**| Javascript Spidermonkey | <h4><a href="https://open.kattis.com/problems/hidingplaces">:link:</a></h4> |
+|    **Hissing Microphone**| Java | <h4><a href="https://open.kattis.com/problems/hissingmicrophone">:link:</a></h4> |
+|    **Homework**| Java | <h4><a href="https://open.kattis.com/problems/heimavinna">:link:</a></h4> |
+|    **Honour Thy (Apaxian) Parent**| Java | <h4><a href="https://open.kattis.com/problems/apaxianparent">:link:</a></h4> |
+|    **ICPC Awards**| Java | <h4><a href="https://open.kattis.com/problems/icpcawards">:link:</a></h4> |
+|    **IsItHalloween.com**| Java | <h4><a href="https://open.kattis.com/problems/isithalloween">:link:</a></h4> |
+|    **I've Been Everywhere, Man**| Java | <h4><a href="https://open.kattis.com/problems/everywhere">:link:</a></h4> |
+|    **Jack-O'-Lantern Juxtaposition**| Java | <h4><a href="https://open.kattis.com/problems/jackolanternjuxtaposition">:link:</a></h4> |
+|    **Janitor Troubles**| Java | <h4><a href="https://open.kattis.com/problems/janitortroubles">:link:</a></h4> |
+|    **Jewelry Box**| Java | <h4><a href="https://open.kattis.com/problems/jewelrybox">:link:</a></h4> |
+|    **Job Expenses**| Java | <h4><a href="https://open.kattis.com/problems/jobexpenses">:link:</a></h4> |
+|    **Joint Jog Jam**| Java | <h4><a href="https://open.kattis.com/problems/jointjogjam">:link:</a></h4> |
+|    **Judging Moose**| Java | <h4><a href="https://open.kattis.com/problems/judgingmoose">:link:</a></h4> |
+|    **Jumbo Javelin**| Java | <h4><a href="https://open.kattis.com/problems/jumbojavelin">:link:</a></h4> |
+|    **Just a Minute**| Java | <h4><a href="https://open.kattis.com/problems/justaminute">:link:</a></h4> |
+|    **Karte**| Java | <h4><a href="https://open.kattis.com/problems/karte">:link:</a></h4> |
+|    **Kemija**| Java | <h4><a href="https://open.kattis.com/problems/kemija08">:link:</a></h4> |
+|    **Knigs of the Forest**| Javascript Spidermonkey | <h4><a href="https://open.kattis.com/problems/knigsoftheforest">:link:</a></h4> |
+|    **Knot Knowledge**| Java | <h4><a href="https://open.kattis.com/problems/knotknowledge">:link:</a></h4> |
+|    **Kornislav**| Java | <h4><a href="https://open.kattis.com/problems/kornislav">:link:</a></h4> |
 |    **Ladder**| Java | Link |
 |    **Laptop Sticker**| Java | Link |
 |    **Last Factorial Digit**| Java | Link |
