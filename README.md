@@ -129,88 +129,91 @@ while (line = readline()) {
 |    **Knigs of the Forest**| Javascript Spidermonkey | <h4><a href="https://open.kattis.com/problems/knigsoftheforest">:link:</a></h4> |
 |    **Knot Knowledge**| Java | <h4><a href="https://open.kattis.com/problems/knotknowledge">:link:</a></h4> |
 |    **Kornislav**| Java | <h4><a href="https://open.kattis.com/problems/kornislav">:link:</a></h4> |
-|    **Ladder**| Java | Link |
-|    **Laptop Sticker**| Java | Link |
-|    **Last Factorial Digit**| Java | Link |
-|    **Left Beehind**| Java | Link |
-|    **License to Launch**| Java | Link |
-|    **Line Them Up**| Java | Link |
-|    **Lost Lineup**| Java | Link |
-|    **Luhn's Checksum Algorithm**| Java | Link |
-|    **Magic Trick**| Java | Link |
-|    **Missing Numbers**| Java | Link |
-|    **Mixed Fractions**| Java | Link |
-|    **Mjehuric**| Java | Link |
-|    **Modulo**| Java | Link |
-|    **Moscow Dream**| Java | Link |
-|    **Mult!**| Java | Link |
-|    **N-sum**| Java | Link |
-|    **Nasty Hacks**| Java | Link |
-|    **No Duplicates**| Java | Link |
-|    **Number Fun**| Java | Link |
-|    **Numbers On a Tree**| Java | Link |
-|    **Odd Echo**| Java | Link |
-|    **Odd Gnome**| Java | Link |
-|    **Odd Man Out**| Java | Link |
-|    **Oddities**| Java | Link |
-|    **One Chicken Per Person!**| Java | Link |
-|    **Overdraft**| Java | Link |
-|    **Parking**| Java | Link |
-|    **Paul Eigon**| Java | Link |
-|    **Pet**| Java | Link |
-|    **Piece of Cake!**| Java | Link |
-|    **Pizza Crust**| Java | Link |
-|    **Planetaris**| Java | Link |
-|    **Planina**| Java | Link |
-|    **Planting Trees**| Java | Link |
-|    **Poker Hand**| Java | Link |
-|    **Pot**| Java | Link |
-|    **Provinces and Gold**| Java | Link |
-|    **Prsteni**| Java | Link |
-|    **Ptice**| Java | Link |
-|    **Quadrant Selection**| Java | Link |
-|    **Quality-Adjusted Life-Year**| Java | Link |
-|    **Quick Brown Fox**| Java | Link |
-|    **Quick Estimates**| Java | Link |
-|    **Permutation Descent Counts**| Java | Link |
-|    **R2**| Java | Link |
-|    **Radio Commercials**| Java | Link |
-|    **Railroad**| Java | Link |
-|    **Rating Problems**| Java | Link |
-|    **Relocation**| Java | Link |
-|    **Reverse**| Java | Link |
-|    **Reversed Binary Numbers**| Java | Link |
-|    **Roaming Romans**| Java | Link |
-|    **SMIL**| Java | Link |
-|    **Saving For Retirement**| Java | Link |
-|    **Scaling Recipe**| Java | Link |
-|    **Secret Message**| Java | Link |
-|    **Secure Doors**| Java | Link |
-|    **Server**| Java | Link |
-|    **Seven Wonders**| Java | Link |
-|    **Sibice**| Java | Link |
-|    **Simon Says**| Java | Link |
-|    **Simple Addition**| Java | Link |
-|    **Skener**| Java | Link |
-|    **Skru op!**| Java | Link |
-|    **Skocimis**| Java | Link |
-|    **Soda Slurper**| Java | Link |
-|    **Solving for Carrots**| Java | Link |
-|    **Some Sum**| Java | Link |
-|    **Sort Two Numbers**| Java | Link |
-|    **Soylent**| Java | Link |
-|    **Spavanac**| Java | Link |
-|    **Speed Limit**| Java | Link |
-|    **Speeding**| Java | Link |
-|    **Stacking Cups**| Java | Link |
-|    **Stand on Zanzibar**| Java | Link |
-|    **Star Arrangements**| Java | Link |
-|    **Statistics**| Java | Link |
-|    **Stopwatch**| Java | Link |
-|    **Stuck In A Time Loop**| Java | Link |
-|    **Sum Kind of Problem**| Java | Link |
-|    **Symmetric Order**| Java | Link |
-|    **Synchronizing Lists**| Java | Link |
+|    **Ladder**| Java | <h4><a href="https://open.kattis.com/problems/ladder">:link:</a></h4> |
+|    **Laptop Sticker**| Java | <h4><a href="https://open.kattis.com/problems/laptopsticker">:link:</a></h4> |
+|    **Last Factorial Digit**| Java | <h4><a href="https://open.kattis.com/problems/lastfactorialdigit">:link:</a></h4> |
+|    **Left Beehind**| Java | <h4><a href="https://open.kattis.com/problems/leftbeehind">:link:</a></h4> |
+|    **License to Launch**| Java | <h4><a href="https://open.kattis.com/problems/licensetolaunch">:link:</a></h4> |
+|    **Line Them Up**| Java | <h4><a href="https://open.kattis.com/problems/lineup">:link:</a></h4> |
+|    **Lost Lineup**| Java | <h4><a href="https://open.kattis.com/problems/lostlineup">:link:</a></h4> |
+|    **Luhn's Checksum Algorithm**| Java | <h4><a href="https://open.kattis.com/problems/luhnchecksum">:link:</a></h4> |
+|    **Magic Trick**| Java | <h4><a href="https://open.kattis.com/problems/magictrick">:link:</a></h4> |
+|    **Missing Numbers**| Java | <h4><a href="https://open.kattis.com/problems/missingnumbers">:link:</a></h4> |
+|    **Mixed Fractions**| Java | <h4><a href="https://open.kattis.com/problems/mixedfractions">:link:</a></h4> |
+|    **Mjehuric**| Java | <h4><a href="https://open.kattis.com/problems/mjehuric">:link:</a></h4> |
+|    **Modulo**| Java | <h4><a href="https://open.kattis.com/problems/modulo">:link:</a></h4> |
+|    **Moscow Dream**| Java | <h4><a href="https://open.kattis.com/problems/moscowdream">:link:</a></h4> |
+|    **Mult!**| Java | <h4><a href="https://open.kattis.com/problems/mult">:link:</a></h4> |
+|    **Nasty Hacks**| Java | <h4><a href="https://open.kattis.com/problems/nastyhacks">:link:</a></h4> |
+|    **No Duplicates**| Java | <h4><a href="https://open.kattis.com/problems/nodup">:link:</a></h4> |
+|    **N-sum**| Java | <h4><a href="https://open.kattis.com/problems/nsum">:link:</a></h4> |
+|    **Number Fun**| Java | <h4><a href="https://open.kattis.com/problems/numberfun">:link:</a></h4> |
+|    **Numbers On a Tree**| Java | <h4><a href="https://open.kattis.com/problems/numbertree">:link:</a></h4> |
+|    **Odd Echo**| Java | <h4><a href="https://open.kattis.com/problems/oddecho">:link:</a></h4> |
+|    **Odd Gnome**| Java | <h4><a href="https://open.kattis.com/problems/oddgnome">:link:</a></h4> |
+|    **Odd Man Out**| Java | <h4><a href="https://open.kattis.com/problems/oddmanout">:link:</a></h4> |
+|    **Oddities**| Java | <h4><a href="https://open.kattis.com/problems/oddities">:link:</a></h4> |
+|    **One Chicken Per Person!**| Java | <h4><a href="https://open.kattis.com/problems/onechicken">:link:</a></h4> |
+|    **Östgötska**| Java | <h4><a href="https://open.kattis.com/problems/ostgotska">:link:</a></h4> |
+|    **Overdraft**| Java | <h4><a href="https://open.kattis.com/problems/overdraft">:link:</a></h4> |
+|    **Parking**| Java | <h4><a href="https://open.kattis.com/problems/parking2">:link:</a></h4> |
+|    **Paul Eigon**| Java | <h4><a href="https://open.kattis.com/problems/pauleigon">:link:</a></h4> |
+|    **Permutation Descent Counts**| Java | <h4><a href="https://open.kattis.com/problems/permutationdescent">:link:</a></h4> |
+|    **Pet**| Java | <h4><a href="https://open.kattis.com/problems/pet">:link:</a></h4> |
+|    **Piece of Cake!**| Java | <h4><a href="https://open.kattis.com/problems/pieceofcake2">:link:</a></h4> |
+|    **Pizza Crust**| Java | <h4><a href="https://open.kattis.com/problems/pizza2">:link:</a></h4> |
+|    **Planetaris**| Java | <h4><a href="https://open.kattis.com/problems/planetaris">:link:</a></h4> |
+|    **Planina**| Java | <h4><a href="https://open.kattis.com/problems/planina">:link:</a></h4> |
+|    **Planting Trees**| Java | <h4><a href="https://open.kattis.com/problems/plantingtrees">:link:</a></h4> |
+|    **Poker Hand**| Java | <h4><a href="https://open.kattis.com/problems/pokerhand">:link:</a></h4> |
+|    **Pot**| Java | <h4><a href="https://open.kattis.com/problems/pot">:link:</a></h4> |
+|    **Provinces and Gold**| Java | <h4><a href="https://open.kattis.com/problems/provincesandgold">:link:</a></h4> |
+|    **Prsteni**| Java | <h4><a href="https://open.kattis.com/problems/prsteni">:link:</a></h4> |
+|    **Ptice**| Java | <h4><a href="https://open.kattis.com/problems/ptice">:link:</a></h4> |
+|    **Quadrant Selection**| Java | <h4><a href="https://open.kattis.com/problems/quadrant">:link:</a></h4> |
+|    **Quality-Adjusted Life-Year**| Java | <h4><a href="https://open.kattis.com/problems/qaly">:link:</a></h4> |
+|    **Quick Brown Fox**| Java | <h4><a href="https://open.kattis.com/problems/quickbrownfox">:link:</a></h4> |
+|    **Quick Estimates**| Java | <h4><a href="https://open.kattis.com/problems/quickestimate">:link:</a></h4> |
+|    **R2**| Java | <h4><a href="https://open.kattis.com/problems/r2">:link:</a></h4> |
+|    **Radio Commercials**| Java | <h4><a href="https://open.kattis.com/problems/commercials">:link:</a></h4> |
+|    **Railroad**| Java | <h4><a href="https://open.kattis.com/problems/railroad2">:link:</a></h4> |
+|    **Rating Problems**| Java | <h4><a href="https://open.kattis.com/problems/ratingproblems">:link:</a></h4> |
+|    **Relocation**| Java | <h4><a href="https://open.kattis.com/problems/relocation">:link:</a></h4> |
+|    **Reverse**| Java | <h4><a href="https://open.kattis.com/problems/ofugsnuid">:link:</a></h4> |
+|    **Reversed Binary Numbers**| Java | <h4><a href="https://open.kattis.com/problems/reversebinary">:link:</a></h4> |
+|    **Roaming Romans**| Java | <h4><a href="https://open.kattis.com/problems/romans">:link:</a></h4> |
+|    **Saving For Retirement**| Java | <h4><a href="https://open.kattis.com/problems/savingforretirement">:link:</a></h4> |
+|    **Scaling Recipe**| Java | <h4><a href="https://open.kattis.com/problems/scalingrecipe">:link:</a></h4> |
+|    **Secret Message**| Java | <h4><a href="https://open.kattis.com/problems/secretmessage">:link:</a></h4> |
+|    **Secure Doors**| Java | <h4><a href="https://open.kattis.com/problems/securedoors">:link:</a></h4> |
+|    **Server**| Java | <h4><a href="https://open.kattis.com/problems/server">:link:</a></h4> |
+|    **Seven Wonders**| Java | <h4><a href="https://open.kattis.com/problems/sevenwonders">:link:</a></h4> |
+|    **Sibice**| Java | <h4><a href="https://open.kattis.com/problems/sibice">:link:</a></h4> |
+|    **Simon Says**| Java | <h4><a href="https://open.kattis.com/problems/simonsays">:link:</a></h4> |
+|    **Simple Addition**| Java | <h4><a href="https://open.kattis.com/problems/simpleaddition">:link:</a></h4> |
+|    **Simple Arithmetic**| Java | <h4><a href="https://open.kattis.com/problems/simplearithmetic">:link:</a></h4> |
+|    **Sjecista**| Javascript Spidermonkey | <h4><a href="https://open.kattis.com/problems/sjecista">:link:</a></h4> |
+|    **Skener**| Java | <h4><a href="https://open.kattis.com/problems/skener">:link:</a></h4> |
+|    **Skocimis**| Java | <h4><a href="https://open.kattis.com/problems/skocimis">:link:</a></h4> |
+|    **Skru op!**| Java | <h4><a href="https://open.kattis.com/problems/skruop">:link:</a></h4> |
+|    **SMIL**| Java | <h4><a href="https://open.kattis.com/problems/smil">:link:</a></h4> |
+|    **Soda Slurper**| Java | <h4><a href="https://open.kattis.com/problems/sodaslurper">:link:</a></h4> |
+|    **Solving for Carrots**| Java | <h4><a href="https://open.kattis.com/problems/carrots">:link:</a></h4> |
+|    **Some Sum**| Java | <h4><a href="https://open.kattis.com/problems/somesum">:link:</a></h4> |
+|    **Sort Two Numbers**| Java | <h4><a href="https://open.kattis.com/problems/sorttwonumbers">:link:</a></h4> |
+|    **Soylent**| Java | <h4><a href="https://open.kattis.com/problems/soylent">:link:</a></h4> |
+|    **Spavanac**| Java | <h4><a href="https://open.kattis.com/problems/spavanac">:link:</a></h4> |
+|    **Speed Limit**| Java | <h4><a href="https://open.kattis.com/problems/speedlimit">:link:</a></h4> |
+|    **Speeding**| Java | <h4><a href="https://open.kattis.com/problems/speeding">:link:</a></h4> |
+|    **Stacking Cups**| Java | <h4><a href="https://open.kattis.com/problems/cups">:link:</a></h4> |
+|    **Stand on Zanzibar**| Java | <h4><a href="https://open.kattis.com/problems/zanzibar">:link:</a></h4> |
+|    **Star Arrangements**| Java | <h4><a href="https://open.kattis.com/problems/stararrangements">:link:</a></h4> |
+|    **Statistics**| Java | <h4><a href="https://open.kattis.com/problems/statistics">:link:</a></h4> |
+|    **Stopwatch**| Java | <h4><a href="https://open.kattis.com/problems/stopwatch">:link:</a></h4> |
+|    **Stuck In A Time Loop**| Java | <h4><a href="https://open.kattis.com/problems/timeloop">:link:</a></h4> |
+|    **Sum Kind of Problem**| Java | <h4><a href="https://open.kattis.com/problems/sumkindofproblem">:link:</a></h4> |
+|    **Symmetric Order**| Java | <h4><a href="https://open.kattis.com/problems/symmetricorder">:link:</a></h4> |
+|    **Synchronizing Lists**| Java | <h4><a href="https://open.kattis.com/problems/synchronizinglists">:link:</a></h4> |
 |    **Tai's formula**| Java | Link |
 |    **Take Two Stones**| Java | Link |
 |    **Tarifa**| Java | Link |
