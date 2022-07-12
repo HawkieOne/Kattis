@@ -214,23 +214,23 @@ while (line = readline()) {
 |    **Sum Kind of Problem**| Java | <h4><a href="https://open.kattis.com/problems/sumkindofproblem">:link:</a></h4> |
 |    **Symmetric Order**| Java | <h4><a href="https://open.kattis.com/problems/symmetricorder">:link:</a></h4> |
 |    **Synchronizing Lists**| Java | <h4><a href="https://open.kattis.com/problems/synchronizinglists">:link:</a></h4> |
-|    **Tai's formula**| Java | Link |
-|    **Take Two Stones**| Java | Link |
-|    **Tarifa**| Java | Link |
-|    **Tetration**| Java | Link |
-|    **The Amazing Human Cannonball**| Java | Link |
-|    **The Easiest Problem Is This One**| Java | Link |
-|    **The Last Problem**| Java | Link |
-|    **The Plank**| Java | Link |
-|    **ToLower**| Java | Link |
-|    **Tower Construction**| Java | Link |
-|    **Train Passengers**| Java | Link |
-|    **Transit Woes**| Java | Link |
-|    **Tri**| Java | Link |
-|    **Triangle Area**| Java | Link |
-|    **Trik**| Java | Link |
-|    **Triple Texting**| Java | Link |
-|    **Two Sum**| Java | Link |
+|    **Tai's formula**| Java | <h4><a href="https://open.kattis.com/problems/taisformula">:link:</a></h4> |
+|    **Take Two Stones**| Java | <h4><a href="https://open.kattis.com/problems/twostones">:link:</a></h4> |
+|    **Tarifa**| Java | <h4><a href="https://open.kattis.com/problems/tarifa">:link:</a></h4> |
+|    **Tetration**| Java | <h4><a href="https://open.kattis.com/problems/tetration">:link:</a></h4> |
+|    **The Amazing Human Cannonball**| Java | <h4><a href="https://open.kattis.com/problems/humancannonball2">:link:</a></h4> |
+|    **The Easiest Problem Is This One**| Java | <h4><a href="https://open.kattis.com/problems/easiest">:link:</a></h4> |
+|    **The Last Problem**| Java | <h4><a href="https://open.kattis.com/problems/thelastproblem">:link:</a></h4> |
+|    **The Plank**| Java | <h4><a href="https://open.kattis.com/problems/theplank">:link:</a></h4> |
+|    **ToLower**| Java | <h4><a href="https://open.kattis.com/problems/tolower">:link:</a></h4> |
+|    **Tower Construction**| Java | <h4><a href="https://open.kattis.com/problems/tornbygge">:link:</a></h4> |
+|    **Train Passengers**| Java | <h4><a href="https://open.kattis.com/problems/trainpassengers">:link:</a></h4> |
+|    **Transit Woes**| Java | <h4><a href="https://open.kattis.com/problems/transitwoes">:link:</a></h4> |
+|    **Tri**| Java | <h4><a href="https://open.kattis.com/problems/tri">:link:</a></h4> |
+|    **Triangle Area**| Java | <h4><a href="https://open.kattis.com/problems/triarea">:link:</a></h4> |
+|    **Trik**| Java | <h4><a href="https://open.kattis.com/problems/trik">:link:</a></h4> |
+|    **Triple Texting**| Java | <h4><a href="https://open.kattis.com/problems/tripletexting">:link:</a></h4> |
+|    **Two Sum**| Java | <h4><a href="https://open.kattis.com/problems/twosum">:link:</a></h4> |
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
